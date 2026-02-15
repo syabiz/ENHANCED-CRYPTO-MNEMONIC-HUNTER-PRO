@@ -167,13 +167,13 @@ Parallel: ON
 ### Saldo_Found.txt
 Wallets with balance > 0:
 ```
-2025-02-15 14:30:22 | abandon ability able... | Path:0 | 0x1234...abcd | Balance:0.05 | ETH
+2026-02-15 14:30:22 | abandon ability able... | Path:0 | 0x1234...abcd | Balance:0.05 | ETH
 ```
 
 ### Transaksi_Found.txt
 Wallets with transaction history:
 ```
-2025-02-15 14:31:45 | another seed phrase... | Path:3 | 0x5678...efgh | TX:12 | BNB
+2026-02-15 14:31:45 | another seed phrase... | Path:3 | 0x5678...efgh | TX:12 | BNB
 ```
 
 ### Test_Mnemonic.txt
@@ -304,10 +304,18 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you find this project helpful, please consider giving it a ⭐ on GitHub!
 
-[![Star History Chart](https://api.star-history.com/svg?repos=syabiz/ENHANCED-CRYPTO-MNEMONIC-HUNTER-PRO&type=Date)](https://star-history.com/#syabiz/ENHANCED-CRYPTO-MNEMONIC-HUNTER-PRO&Date)
+DONATE
+---
+| Cryptocurrency | Address |
+| --- | --- |
+| BTC | bc1qn6t8hy8memjfzp4y3sh6fvadjdtqj64vfvlx58 |
+| ETH | 0x512936ca43829C8f71017aE47460820Fe703CAea |
+| SOL | 6ZZrRmeGWMZSmBnQFWXG2UJauqbEgZnwb4Ly9vLYr7mi |
+| POL | 0x512936ca43829C8f71017aE47460820Fe703CAea |
+
 
 ---
 
 **Made with ❤️ for the Crypto Community**
 
-*Last Updated: February 2025 | Version 6.0*
+*Last Updated: February 2026 | Version 6.0*
